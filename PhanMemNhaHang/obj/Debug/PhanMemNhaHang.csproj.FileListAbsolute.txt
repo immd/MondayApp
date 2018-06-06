@@ -1,0 +1,17 @@
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\PhanMemNhaHang.exe.config
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\PhanMemNhaHang.exe
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\PhanMemNhaHang.pdb
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.csprojAssemblyReference.cache
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.Form1.resources
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.FormAdd.resources
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.Properties.Resources.resources
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.csproj.GenerateResource.cache
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.csproj.CopyComplete
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.exe
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.pdb
+C:\Users\Minh Duy\source\repos\PhanMemNhaHang\PhanMemNhaHang\obj\Debug\PhanMemNhaHang.FormEdit.resources
